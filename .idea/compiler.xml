@@ -9,8 +9,8 @@
         <module name="postvk" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="7">
-      <module name="postvk" target="7" />
+    <bytecodeTargetLevel target="9">
+      <module name="postvk" target="9" />
     </bytecodeTargetLevel>
   </component>
 </project>
